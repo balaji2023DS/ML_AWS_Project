@@ -3,13 +3,12 @@ import setuptools
 with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
-
 __version__ = "0.0.0"
 
-REPO_NAME = "Chicken-Disease-Classification--Project"
-AUTHOR_USER_NAME = "entbappy"
+REPO_NAME = "ML_AWS_Project"
+AUTHOR_USER_NAME = "balajiDS2023"
 SRC_REPO = "cnnClassifier"
-AUTHOR_EMAIL = "entbappy73@gmail.com"
+AUTHOR_EMAIL = "balajihin@gmail.com"
 
 
 setuptools.setup(
